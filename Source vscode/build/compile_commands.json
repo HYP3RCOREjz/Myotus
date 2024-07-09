@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/admin/Downloads/Source vscode/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.0 -o CMakeFiles/hello_world.dir/hello_world.cpp.o -c \"/Users/admin/Downloads/Source vscode/hello_world.cpp\"",
+  "file": "/Users/admin/Downloads/Source vscode/hello_world.cpp",
+  "output": "CMakeFiles/hello_world.dir/hello_world.cpp.o"
+},
+{
+  "directory": "/Users/admin/Downloads/Source vscode/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.0 -o CMakeFiles/hello_world.dir/example.cpp.o -c \"/Users/admin/Downloads/Source vscode/example.cpp\"",
+  "file": "/Users/admin/Downloads/Source vscode/example.cpp",
+  "output": "CMakeFiles/hello_world.dir/example.cpp.o"
+},
+{
+  "directory": "/Users/admin/Downloads/Source vscode/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.0 -o CMakeFiles/hello_world.dir/move_me_out.cpp.o -c \"/Users/admin/Downloads/Source vscode/move_me_out.cpp\"",
+  "file": "/Users/admin/Downloads/Source vscode/move_me_out.cpp",
+  "output": "CMakeFiles/hello_world.dir/move_me_out.cpp.o"
+}
+]
